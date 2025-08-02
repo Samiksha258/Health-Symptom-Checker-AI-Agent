@@ -1,5 +1,4 @@
 # 🧠 Agentic AI Health Symptom Checker  
-> Your AI-powered companion for safe, multilingual health insights – built using IBM Watsonx & Granite Foundation Models
 
 ---
 
@@ -86,6 +85,25 @@ That’s where **Agentic AI** comes in — a **non-diagnostic, AI health agent**
 
 ---
 
+## 🖼️ Screenshots
+
+**🔹 Setting up**
+![AI Agent Screenshot](git1.jpg)
+
+**🔹 Agent Instructions**
+![AI Agent Screenshot](git3.jpg)
+
+**🔹 Quick Start Questions**
+![AI Agent Screenshot](git2.jpg)
+
+**🔹 Tools used & Testing**
+![AI Agent Screenshot](git4.jpg)
+
+**🔹 Resources List**
+![AI Agent Screenshot](git5.jpg)
+
+---
+
 ## 🧮 Development Process
 
 - **Phase 1**: Design chat flows and symptom categories  
@@ -130,3 +148,11 @@ That’s where **Agentic AI** comes in — a **non-diagnostic, AI health agent**
 t Docs](https://cloud.ibm.com/docs/watson-assistant)
 - [IBM Granite Foundation Models](https://www.ibm.com/products/granite)
 - Public datasets on symptoms and conditions (via healthdata.gov, etc.)
+
+---
+
+## ⚖️ License
+
+This project is licensed under the MIT License.
+
+---

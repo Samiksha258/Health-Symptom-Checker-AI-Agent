@@ -156,3 +156,5 @@ t Docs](https://cloud.ibm.com/docs/watson-assistant)
 This project is licensed under the MIT License.
 
 ---
+
+> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by Samiksha Padwal
